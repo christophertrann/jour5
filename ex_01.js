@@ -1,2 +1,2 @@
-= let priceElement = document.getElementById("price");
+ let priceElement = document.getElementById("price");
 priceElement.textContent = "0"
